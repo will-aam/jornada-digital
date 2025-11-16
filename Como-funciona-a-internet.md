@@ -195,3 +195,13 @@ A **criptografia** é um dos principais mecanismos de segurança.
 Para consolidar a compreensão do fluxo de dados, podemos imaginar a Internet como um **sistema de correios global altamente eficiente**:
 
 Quando você envia uma mensagem (dados), ela é primeiro quebrada em **milhares de cartas pequenas (pacotes)**, e o endereço do remetente e do destinatário (IPs) e as instruções de remontagem (cabeçalhos) são colocados em cada uma. Os **provedores de Internet (ISPs)**, organizados em uma hierarquia (Tier 1 a Tier 3), são as grandes companhias de transporte. Essas cartas são então enviadas através de **autoestradas complexas (cabos de fibra ótica, incluindo os submarinos)**. Em cada **cruzamento (roteador)**, o pacote é lido para saber o próximo passo (roteamento), utilizando um mapa gigantesco (tabela de roteamento mantida por protocolos como BGP e OSPF). Finalmente, todas as cartas chegam ao seu destino, e o computador receptor atua como um carteiro dedicado, remontando as cartas na ordem correta para recriar a mensagem original. Se você está visitando um site, é como procurar o endereço de uma loja em uma **agenda telefônica universal (DNS)** antes que as cartas possam começar a viajar.
+
+## Notas
+
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [Internet - Wiki](https://pt.wikipedia.org/wiki/Internet)
+- [Camada de aplicação](https://pt.wikipedia.org/wiki/Camada_de_aplição)
+- [Como a Internet funciona? - Gustavo Guanabara](https://www.youtube.com/watch?v=nlO5hySqJFA)
+- [Como a internet funciona em 5 minutos (en-Us) - Aaron Titus ](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [TCP/IP (PDF)](https://elhacker.info/manuales/Redes/Redes%20paso%20a%20paso/Modelo%20TCP.pdf)
+- [Redes de Computadores II - Roteamento na InterneT (PDF)](https://www.inf.ufpr.br/elias/redes/23aulaRedes.pdf)
